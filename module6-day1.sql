@@ -127,4 +127,58 @@ books(
         '03/22/1947'
         'USA',
     )
-    
+    INSERT INTO
+    books(
+        name,
+        category,
+        cover,
+    )
+    VALUES(
+        'The Mysterious Affair at Styles',
+        'Novel',
+        'https://agathachristie.imgix.net/hcus-paperback/Jacket_TheMysteriousAffairatStylesUS.jpg?auto=compress,format&fit=fill&fill=solid&q=65&w=120&h=194',
+    )
+     INSERT INTO
+    books(
+        name,
+        category,
+        cover,
+    )
+    VALUES(
+        'The Secret Adversary',
+        'Novel',
+        'https://agathachristie.imgix.net/hcus-paperback/Jacket_TheSecretAdversaryUS.jpg?auto=compress,format&fit=fill&fill=solid&q=65&w=120&h=194',
+    )
+     INSERT INTO
+    books(
+        name,
+        category,
+        cover,
+    )
+    VALUES(
+        'The Murder on the Links',
+        'Novel',
+        'https://agathachristie.imgix.net/hcus-paperback/Jacket_TheMurderontheLinksUS.jpg?auto=compress,format&fit=fill&fill=solid&q=65&w=120&h=194',
+    )
+     INSERT INTO
+    books(
+        name,
+        category,
+        cover,
+    )
+    VALUES(
+        'The Man in the Brown Suit',
+        'Novel',
+        'https://agathachristie.imgix.net/hcus-paperback/Jacket_TheManInTheBrownSuitUS.jpg?auto=compress,format&fit=fill&fill=solid&q=65&w=120&h=194',
+    )
+     INSERT INTO
+    books(
+        name,
+        category,
+        cover,
+    )
+    VALUES(
+        'The Murder of Roger Ackroyd',
+        'Novel',
+        'https://agathachristie.imgix.net/hcus-paperback/Jacket_TheMurderofRogerAckroydUS.jpg?auto=compress,format&fit=fill&fill=solid&q=65&w=120&h=194',
+    )
